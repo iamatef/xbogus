@@ -1,0 +1,25 @@
+{
+  "name": "xbogus",
+  "version": "1.0.0",
+  "description": "Generate X-Bogus parameter used for tiktok requests ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamatef/xbogus.git"
+  },
+  "keywords": [
+    "Tiktok",
+    "X-bogus",
+    "Tiktok",
+    "API"
+  ],
+  "author": "Mohamed Atef",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamatef/xbogus/issues"
+  },
+  "homepage": "https://github.com/iamatef/xbogus#readme"
+}
