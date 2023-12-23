@@ -21,5 +21,6 @@
   "bugs": {
     "url": "https://github.com/iamatef/xbogus/issues"
   },
-  "homepage": "https://github.com/iamatef/xbogus#readme"
+  "homepage": "https://github.com/iamatef/xbogus#readme",
+  "types": "types/index.d.ts"
 }
